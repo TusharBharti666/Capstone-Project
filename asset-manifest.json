@@ -1,30 +1,16 @@
 {
   "files": {
-    "main.css": "/Capstone-Project/static/css/main.1f299d0e.css",
-    "main.js": "/Capstone-Project/static/js/main.11379234.js",
-    "static/js/787.091bb736.chunk.js": "/Capstone-Project/static/js/787.091bb736.chunk.js",
-    "static/media/bg.mp4": "/Capstone-Project/static/media/bg.c420caec0b47ac56c103.mp4",
-    "static/media/10.jpg": "/Capstone-Project/static/media/10.480db373e8040c1c0575.jpg",
-    "static/media/4.jpg": "/Capstone-Project/static/media/4.9e1f59457baed489c3db.jpg",
-    "static/media/9.jpg": "/Capstone-Project/static/media/9.d38a2bb0dc87c8100ff0.jpg",
-    "static/media/3.jpg": "/Capstone-Project/static/media/3.9494382140b6209d75b2.jpg",
-    "static/media/8.jpg": "/Capstone-Project/static/media/8.4d8809b91fb9d99697dd.jpg",
-    "static/media/5.jpg": "/Capstone-Project/static/media/5.cc1b2c94afc6b9c3c417.jpg",
-    "static/media/11.jpg": "/Capstone-Project/static/media/11.b13910ab7b52ba3286e2.jpg",
-    "static/media/6.jpg": "/Capstone-Project/static/media/6.e53510a2e602c3e6e078.jpg",
-    "static/media/7.jpg": "/Capstone-Project/static/media/7.d7ef162db802086496ed.jpg",
-    "static/media/2.jpg": "/Capstone-Project/static/media/2.3b156c0fd6508afd47c8.jpg",
-    "static/media/12.jpg": "/Capstone-Project/static/media/12.41f49a33a08e1f08fd2b.jpg",
-    "static/media/1.jpg": "/Capstone-Project/static/media/1.90b8f708d64abdb35ec0.jpg",
-    "static/media/logo.svg": "/Capstone-Project/static/media/logo.01363cfa85d12ea14842110b9d918369.svg",
-    "static/media/commonBg.jpg": "/Capstone-Project/static/media/commonBg.ed55673634289fa82b34.jpg",
-    "index.html": "/Capstone-Project/index.html",
-    "main.1f299d0e.css.map": "/Capstone-Project/static/css/main.1f299d0e.css.map",
-    "main.11379234.js.map": "/Capstone-Project/static/js/main.11379234.js.map",
-    "787.091bb736.chunk.js.map": "/Capstone-Project/static/js/787.091bb736.chunk.js.map"
+    "main.css": "/fitness_club_bullseye/static/css/main.bb64da1d.css",
+    "main.js": "/fitness_club_bullseye/static/js/main.cc11360b.js",
+    "static/js/787.f57a4684.chunk.js": "/fitness_club_bullseye/static/js/787.f57a4684.chunk.js",
+    "static/media/bgImage.jpg": "/fitness_club_bullseye/static/media/bgImage.bcba1cbd6e1997adc876.jpg",
+    "index.html": "/fitness_club_bullseye/index.html",
+    "main.bb64da1d.css.map": "/fitness_club_bullseye/static/css/main.bb64da1d.css.map",
+    "main.cc11360b.js.map": "/fitness_club_bullseye/static/js/main.cc11360b.js.map",
+    "787.f57a4684.chunk.js.map": "/fitness_club_bullseye/static/js/787.f57a4684.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f299d0e.css",
-    "static/js/main.11379234.js"
+    "static/css/main.bb64da1d.css",
+    "static/js/main.cc11360b.js"
   ]
 }
